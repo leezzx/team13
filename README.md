@@ -12,4 +12,12 @@
 
 → [https://github.com/LM-channel-team-project/team13/issues/1](https://github.com/LM-channel-team-project/team13/issues/1)
 
-## <ins></ins>
+## <ins>Team member (Position)</ins>
+
+김진영(gimquokka)
+
+정한준(JeongHanJun)
+
+이창규(leezzx)
+
+이현기(LeeHyungi0622) / **Front-end**
