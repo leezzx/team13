@@ -18,6 +18,6 @@
 
 정한준(JeongHanJun)
 
-이창규(leezzx)
+이창규(leezzx) / **Back-end**
 
 이현기(LeeHyungi0622) / **Front-end**
